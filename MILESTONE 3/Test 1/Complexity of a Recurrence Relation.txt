@@ -1,0 +1,4 @@
+Which one of the following correctly determines 
+the solution of the recurrence relation with T(1) = 1?
+
+Ans - O(N) 

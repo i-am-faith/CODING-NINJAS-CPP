@@ -1,0 +1,5 @@
+Which of the following operations is not O(1) for an array of sorted data. 
+You may assume that array elements are distinct.
+
+
+Ans - Delete an element 

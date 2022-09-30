@@ -1,0 +1,4 @@
+The recurrence relation capturing the optimal execution time 
+of the Towers of Hanoi problem with n discs is :
+
+Ans - T(n) = 2T(n − 1) + 1 
