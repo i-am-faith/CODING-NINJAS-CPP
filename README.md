@@ -1,11 +1,11 @@
 # CODING-NINJAS-CPP
 
-# Eminence - C++ Coding Ninjas (2022)
-# My Offical Website: https://i-am-faith.github.io/SwitchToBit/
-# Repository for the solution of Assignments and Tests
-# Please use this when you are messed up with deadlines , You can't grow your carrer by copying codes.
-# Try to use these codes wisely and take idea how to approach from the solution
-# Best Of Luck My Friend
+# 💡Eminence - C++ Coding Ninjas (2022)
+# 💡My Offical Website: https://i-am-faith.github.io/SwitchToBit/
+# 💡Repository for the solution of Assignments and Tests
+# 💡Please use this when you are messed up with deadlines , You can't grow your carrer by copying codes.
+# 💡Try to use these codes wisely and take idea how to approach from the solution
+# 💡Best Of Luck My Friend
   
 ```
 * Here,you'll get solutions to all the lectures problem and assignment problem of the C++ Course from Coding Ninjas.
@@ -16,7 +16,11 @@
 
  <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i><a
                 href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=sourin.mukherjee2105833@gmail.com"
-                target="_blank">sourin.mukherjee2105833@gmail.com</a></p>
+                target="_blank">CONTACT ME</a></p>
+                
+ <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i><a
+                href="https://www.linkedin.com/in/sourin-mukherjee2105833"
+                target="_blank">LINKEDIN PROFILE</a></p>
 
 
 ## Students:
